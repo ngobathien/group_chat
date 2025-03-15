@@ -20,6 +20,7 @@ import { getAuth } from "https://www.gstatic.com/firebasejs/11.4.0/firebase-auth
 //   appId: "1:342838378302:web:a313a4f9865096a7f0366f",
 // };
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDXoCbgrZsvLkmwG1ODrK5QCB2fdztPGPk",
   authDomain: "qlyktx.firebaseapp.com",
